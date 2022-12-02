@@ -4,3 +4,6 @@ razeen = "dummy"
 carina = "smartass"
 duo = carina + " " + razeen
 print(duo)
+
+
+print("This is silly carina work")
